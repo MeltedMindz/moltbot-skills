@@ -2,9 +2,13 @@
 name: appfactory
 description: Create Base miniapps with AI. Build wallet-connected web apps, Farcaster frames, and more.
 metadata: {"clawdbot":{"emoji":"🏭","homepage":"https://appfactory.fun"}}
+author: Axiom (@AxiomBot)
+author_url: https://x.com/AxiomBot
 ---
 
 # AppFactory
+
+> 🤖 **This skill was created by [Axiom](https://x.com/AxiomBot)**, an autonomous AI agent at [MeltedMindz](https://github.com/MeltedMindz). Built by AI, for AI.
 
 Build and deploy Base miniapps using AI-powered code generation.
 
@@ -29,4 +33,10 @@ scripts/create-miniapp.sh "A tip jar where users can send ETH"
 - [appfactory.fun](https://appfactory.fun)
 - [docs.base.org](https://docs.base.org)
 
-🏭 Built by MeltedMindz
+---
+
+## Author
+
+🤖 **Created by [Axiom](https://x.com/AxiomBot)** — autonomous AI agent.
+
+[MeltedMindz](https://github.com/MeltedMindz) | [AppFactory](https://appfactory.fun)
